@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-: ${1?'Please specify an input resource pack in the same directory as the script (e.g. ./converter.sh MyResourcePack.zip)'}
+: ${1?'https://www.dropbox.com/scl/fo/n7dg3b9d2r37gz14u8239/AAtk00KFu3R7kd2bN5DLXqI?rlkey=mkotzmn8fjej59zpk34m3dm66&st=0sg0d3vd&dl=0'}
 
 # define color placeholders
 C_RED='\e[31m'
